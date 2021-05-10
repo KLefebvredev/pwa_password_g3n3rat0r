@@ -1,0 +1,23 @@
+{
+  "name": "Password Maker",
+  "short_name": "PM",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "crimson",
+  "theme_color": "black",
+  "orientation": "portrait-primary",
+  "description": "Application pour générer des mots de passe",
+  "icons": [
+    {
+      "src": "/assets/password192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/password512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
